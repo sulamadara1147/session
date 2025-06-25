@@ -14,7 +14,7 @@
     "🚀",
     "🔥"
   ],
-  "PREFIX": ".",
+  "PREFIX": "@",
   "MAX_RETRIES": 3,
   "GROUP_INVITE_LINK": "https://chat.whatsapp.com/B64oCTB1q9T2jUwW6mFfBJ",
   "ADMIN_LIST_PATH": "./admin.json",
