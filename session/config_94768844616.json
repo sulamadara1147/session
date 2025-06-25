@@ -1,0 +1,27 @@
+{
+  "AUTO_VIEW_STATUS": "true",
+  "AUTO_LIKE_STATUS": "false",
+  "AUTO_RECORDING": "false",
+  "AUTO_LIKE_EMOJI": [
+    "💥",
+    "👍",
+    "😍",
+    "💗",
+    "🎈",
+    "🎉",
+    "🥳",
+    "😎",
+    "🚀",
+    "🔥"
+  ],
+  "PREFIX": ".",
+  "MAX_RETRIES": 3,
+  "GROUP_INVITE_LINK": "https://chat.whatsapp.com/B64oCTB1q9T2jUwW6mFfBJ",
+  "ADMIN_LIST_PATH": "./admin.json",
+  "RCD_IMAGE_PATH": "./sulabot.jpg",
+  "NEWSLETTER_JID": "120363385281017920@newsletter",
+  "NEWSLETTER_MESSAGE_ID": "428",
+  "OTP_EXPIRY": 300000,
+  "OWNER_NUMBER": "94760663483",
+  "CHANNEL_LINK": "https://whatsapp.com/channel/0029Vb65iOZKwqSNKecV8V07"
+}
