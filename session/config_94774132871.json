@@ -1,6 +1,6 @@
 {
   "AUTO_VIEW_STATUS": "true",
-  "AUTO_LIKE_STATUS": "true",
+  "AUTO_LIKE_STATUS": "false",
   "AUTO_RECORDING": "true",
   "AUTO_LIKE_EMOJI": [
     "💥",
