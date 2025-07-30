@@ -113,36 +113,4 @@
     "unarchiveChats": false
   },
   "registered": true,
-  "pairingCode": "MHJDWPGS",
-  "me": {
-    "id": "989159976595:21@s.whatsapp.net",
-    "lid": "250778879037461:21@lid",
-    "name": "989159976595"
-  },
-  "account": {
-    "details": "CJSk+LALEMTDn8QGGAogACgA",
-    "accountSignatureKey": "btP3VaxpoiaRnwMcClN6C7iXeJgzJJ230T4Vx2jfdw4=",
-    "accountSignature": "nLQwMQkkyzGF4YTcsOFUPR1wpvKPS8OpiuogVv17MOJrRA0DfcMTTf5QF9L0HM8dxKtwisLdQ9zEjKrH/gOxDw==",
-    "deviceSignature": "6k9uKIsyqIQRhQGGAukm6EST0dNoYdolDghjScAEMgXmRW0zb0mzUaRcmklI2H9+23sgOHH1bGoWJ/EwnE74CQ=="
-  },
-  "signalIdentities": [
-    {
-      "identifier": {
-        "name": "989159976595:21@s.whatsapp.net",
-        "deviceId": 0
-      },
-      "identifierKey": {
-        "type": "Buffer",
-        "data": "BW7T91WsaaImkZ8DHApTegu4l3iYMySdt9E+Fcdo33cO"
-      }
-    }
-  ],
-  "platform": "iphone",
-  "routingInfo": {
-    "type": "Buffer",
-    "data": "CAIICA=="
-  },
-  "lastAccountSyncTimestamp": 1753738868,
-  "lastPropHash": "3gPUJk",
-  "myAppStateKeyId": "AAAAABAB"
-}
+  "pairing
